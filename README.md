@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yebin12
-- 👀 I’m interested in eating and sleeping
-- 🌱 I’m currently learning Computer Science at UBC
+- 👀 Interested in eating and sleeping
+- 🌱 Currently studying Cognitive System in UBC 
 - 📫 How to reach me: insta: @y_bin_c
 
 <!---
