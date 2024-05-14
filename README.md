@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @Yebin12
-- 🌱 Currently studying Cognitive System and Computer Science in UBC 
-- email:choyebin213@gmailcom
-- liknedin: https://www.linkedin.com/in/yebin-cho/
+# Hi 👋, I'm Yebin 
 
-<!---
-Yebin12/Yebin12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me 
+Hi there, I am a fourth year studying Computational Intelligence and Design at the University of British Columbia 
+
+I'm interested in wide range of topics, centered around technology 
+
+See my passions below for more info ⬇️
+
+## Passionate about 
+Software development
+
+Human centered design principles
+
+Innovative technology
+
+Responsible AI 
+
+## Past Projects 
+ForestAR - Team Project 
+
+
+UBC RAG - Team Project 
+(https://github.com/Yebin12/project3-main)
+
+
+
+
