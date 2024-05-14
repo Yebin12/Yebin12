@@ -1,27 +1,13 @@
 # Hi 👋, I'm Yebin 
 
 ## About Me 
-Hi there, I am a fourth year studying Computational Intelligence and Design at the University of British Columbia 
-
-I'm interested in wide range of topics, centered around technology 
-
-See my passions below for more info ⬇️
-
-## Passionate about 
-Software development
-
-Human centered design principles
-
-Innovative technology
-
-Responsible AI 
+I am a fourth year studying Computational Intelligence and Design at the University of British Columbia. Currently, I am passionate about innovative technology and Responsible AI. 
 
 ## Past Projects 
 ForestAR - Team Project 
-
-
+(https://eml.ubc.ca/projects/virtual-therapeutic-landscapes/) 
 UBC RAG - Team Project 
-(https://github.com/Yebin12/project3-main)
+(https://eml.ubc.ca/projects/retrieval-augmented-generation-framework/) 
 
 
 
