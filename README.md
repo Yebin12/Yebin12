@@ -6,6 +6,7 @@ I am a fourth year studying Computational Intelligence and Design at the Univers
 ## Past Projects 
 ForestAR - Team Project 
 (https://eml.ubc.ca/projects/virtual-therapeutic-landscapes/) 
+
 UBC RAG - Team Project 
 (https://eml.ubc.ca/projects/retrieval-augmented-generation-framework/) 
 
