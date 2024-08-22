@@ -14,8 +14,4 @@ UBC RAG - Team Project
 
 * Project Homepage: https://eml.ubc.ca/projects/retrieval-augmented-generation-framework/
 
-## Current Project 
-Andnd - Personal Project 
-* Notion Page: https://www.notion.so/Andnd-efcd4a46835f4ceaa440c47256a2445a 
-
 
